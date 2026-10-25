@@ -20,12 +20,13 @@ Developed by **MulMelon**.
 - **Player Heads** — Get a command for obtaining a player's head.
 - **Skin Downloading** — Save player skins using a native file dialog.
 - **Localization** — Available in English and Korean.
+- **And MUCH MORE!**
 
 ## How to Use
 
 1. Install PPGUI and its required dependencies for a supported Minecraft Fabric version.
 2. Launch Minecraft.
-3. Press **P** (configurable in Minecraft's keybind settings) to open the PPGUI home screen.
+3. Press **J** (configurable in Minecraft's keybind settings) to open the PPGUI home screen.
 4. Enter a Minecraft username to look up a player.
 5. Explore their profile using the interactive 3D viewer and available controls.
 
@@ -61,12 +62,6 @@ This repository is intended for bug reports, feature requests, feedback, and pub
 
 The availability of compiled releases does not grant permission to redistribute, modify, or reverse-engineer the mod beyond what applicable law or an accompanying license permits.
 
-## Compatibility
-
-- **Minecraft:** 26.3
-- **Mod loader:** Fabric
-- **Environment:** Client-side
-- **Languages:** English (`en_us`) and Korean (`ko_kr`)
 
 ## Credits
 
