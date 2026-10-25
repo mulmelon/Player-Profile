@@ -1,4 +1,4 @@
-# Player-Profile
+# [Player-Profile](https://modrinth.com/mod/player-profile)
 
 **A simple, interactive player profile viewer for Minecraft.**
 
